@@ -52,3 +52,17 @@ symbols and label namespaces.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.10-2
++ Revision: 751921
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.10-1
++ Revision: 718457
+- texlive-flagderiv
+- texlive-flagderiv
+- texlive-flagderiv
+- texlive-flagderiv
+
