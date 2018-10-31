@@ -6,7 +6,7 @@
 # catalog-version 0.10
 Name:		texlive-flagderiv
 Version:	0.10
-Release:	10
+Release:	11
 Summary:	Flag style derivation package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/flagderiv
