@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Flag style derivation package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/flagderiv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/flagderiv
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/flagderiv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/flagderiv.doc.r%{version}.tar.xz
